@@ -53,10 +53,6 @@ Key highlights:
 - Built-in webhook verification before processing any message.
 - Claude produces concise, friendly, and non-AI-sounding replies and asks follow-ups when intent is unclear.
 
-Notes:
-- Example images are stored under `images/` — replace them with screenshots or diagrams as needed.
-- Update Graph API versions or page IDs in the flow nodes if Facebook/Meta API versions change.
-
 ---
 
 **LinkedIn Workflows**
@@ -119,5 +115,3 @@ Key highlights:
 - Duplicate protection via Supabase comment log.
 - Claude replies are capped (3 sentences), personalised, and invite further conversation.
 - Full audit trail stored in Supabase for each reply.
-
-Replace the example SVGs in `images/` with screenshots if you prefer real flow diagrams.
